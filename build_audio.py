@@ -24,10 +24,10 @@ voice=np.concatenate([voice,np.zeros(int(3.5*SR),dtype=np.float32)])
 voice=voice/ (np.max(np.abs(voice))+1e-9)*0.85
 tl['total']=total
 # music: B-flat aeolian drone pad, unique key for this video
-rng=np.random.default_rng(131)
+rng=np.random.default_rng(89)
 n=len(voice); tt=np.arange(n)/SR
 def note(m): return 440*2**((m-69)/12)
-chords=[[40,47,52,56],[36,43,48,52],[38,45,50,54],[33,40,45,49]]
+chords=[[45,52,57,61],[40,47,52,56],[43,50,55,59],[38,45,50,54]]
 L=np.zeros(n);R=np.zeros(n)
 seg=22.0
 for i in range(int(total/seg)+2):
