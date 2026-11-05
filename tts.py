@@ -8,7 +8,7 @@ async def one(t,out,tries):
     for a in range(tries):
         try:
             async with sem:
-                c=edge_tts.Communicate(t,"ru-RU-DmitryNeural",pitch="-8Hz")
+                c=edge_tts.Communicate(t,"ru-RU-DmitryNeural")
                 await asyncio.wait_for(c.save(out),30)
             if os.path.getsize(out)>2000: return True
         except Exception: pass

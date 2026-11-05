@@ -2,7 +2,7 @@ import numpy as np,subprocess,json,os,re
 import script
 SR=44100
 def load(path):
-    r=subprocess.run(['ffmpeg','-v','error','-i',path,'-af','atempo=1.03,aresample=44100','-ac','1','-f','f32le','-'],capture_output=True,check=True)
+    r=subprocess.run(['ffmpeg','-v','error','-i',path,'-af','aresample=44100','-ac','1','-f','f32le','-'],capture_output=True,check=True)
     return np.frombuffer(r.stdout,dtype=np.float32)
 voice=[np.zeros(int(0.15*SR),dtype=np.float32)]
 t=0.15; tl={'blocks':[],'sents':[]}
@@ -24,10 +24,10 @@ voice=np.concatenate([voice,np.zeros(int(3.5*SR),dtype=np.float32)])
 voice=voice/ (np.max(np.abs(voice))+1e-9)*0.85
 tl['total']=total
 # music: B-flat aeolian drone pad, unique key for this video
-rng=np.random.default_rng(89)
+rng=np.random.default_rng(181)
 n=len(voice); tt=np.arange(n)/SR
 def note(m): return 440*2**((m-69)/12)
-chords=[[45,52,57,61],[40,47,52,56],[43,50,55,59],[38,45,50,54]]
+chords=[[55,62,67,71],[52,59,64,68],[50,57,62,66],[53,60,65,69]]
 L=np.zeros(n);R=np.zeros(n)
 seg=22.0
 for i in range(int(total/seg)+2):
