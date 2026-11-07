@@ -754,7 +754,6 @@ coverr-candy-shop-533
 coverr-candy-shop-on-the-street-2043
 coverr-capturing-moments-outdoors
 coverr-car-driving-on-a-curvy-road-9744
-coverr-car-driving-through-a-forest-1108
 coverr-car-in-the-mist-1271
 coverr-car-in-the-rain-outside-6155
 coverr-carousel-in-action-2628
@@ -1351,9 +1350,6 @@ coverr-girl-texting-on-school-campus-147
 coverr-girl-texting-on-the-school-campus-7121
 coverr-girl-typing-on-a-laptop-4218
 coverr-girl-typing-on-her-laptop-526
-coverr-girl-walking-in-a-forest-4870
-coverr-girl-walking-through-a-forest-1519
-coverr-girl-walks-in-a-forest-575
 coverr-girl-wearing-glasses-while-working-on-a-laptop-at-home-8325
 coverr-girl-writes-something-in-a-notebook-5239
 coverr-girl-writing-in-a-notebook-2268
@@ -1871,7 +1867,6 @@ coverr-online-shopping-bliss
 coverr-online-shopping-with-credit-card
 coverr-opening-a-laptop-6417
 coverr-opening-airplane-window-8351
-coverr-opening-an-nft-image-on-the-opensea-marketplace-9724
 coverr-opening-the-laptop-957
 coverr-opening-up-a-laptop-5055
 coverr-opening-up-the-laptop-9137
@@ -2529,7 +2524,6 @@ coverr-turning-a-light-on-2452
 coverr-tv-flickering-4504
 coverr-twilight-city-call
 coverr-twilight-stretching-routine
-coverr-twist-to-quench-thirst
 coverr-two-bikers-are-driving-through-an-uphill-curve-in-the-road-7601
 coverr-two-bikers-discussing-things-70
 coverr-two-bikers-driving-down-a-straight-road-4101
@@ -2655,7 +2649,6 @@ coverr-walking-in-an-open-area-686
 coverr-walking-in-central-park-4412
 coverr-walking-in-shibuya-9228
 coverr-walking-in-the-city-6708
-coverr-walking-in-the-middle-of-a-road-2417
 coverr-walking-in-the-neighborhood-8421
 coverr-walking-near-arc-de-triomphe-in-paris-8133
 coverr-walking-near-the-canal-9925
