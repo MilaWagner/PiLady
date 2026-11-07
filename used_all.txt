@@ -34,6 +34,7 @@ coverr-a-beautiful-sunrise-in-lisbon-4121
 coverr-a-bird-sitting-on-a-streetlight-8677
 coverr-a-blonde-girl-attaching-a-flash-to-her-camera-1198
 coverr-a-blonde-guy-walking-on-a-terrace-9151
+coverr-a-blonde-man-standing-on-a-terrace-5258
 coverr-a-blonde-man-tying-his-hair-into-a-bun-8449
 coverr-a-blonde-man-works-on-a-laptop-in-his-home-office-5380
 coverr-a-blurry-shot-of-a-guy-using-a-smartphone-7379
@@ -48,6 +49,7 @@ coverr-a-businessman-makes-notes-in-a-notebook-9894
 coverr-a-businessman-talking-on-his-smartphone-9043
 coverr-a-businessman-working-on-a-stock-market-trading-platform-4862
 coverr-a-busy-day-at-work-6394
+coverr-a-busy-shrine-2701
 coverr-a-busy-worker-working-on-a-modern-laptop-2893
 coverr-a-car-passing-in-the-road-in-panama-city-9269
 coverr-a-car-turning-around-and-driving-away-3901
@@ -81,6 +83,8 @@ coverr-a-couple-relaxing-at-home-2553
 coverr-a-couple-running-on-the-beach-together-5932
 coverr-a-couple-runs-in-a-park-2834
 coverr-a-couple-scrolling-through-a-smartphone-122
+coverr-a-couple-walking-and-embracing-by-the-shore-7643
+coverr-a-couple-walking-by-the-coastline-3105
 coverr-a-couple-walking-in-a-park-3789
 coverr-a-couple-walking-through-a-city-park-3129
 coverr-a-couple-walks-with-their-dog-in-the-city-4888
@@ -173,6 +177,8 @@ coverr-a-guy-dancing-in-a-field-of-grass-2852
 coverr-a-guy-erases-writing-from-the-whiteboard-7544
 coverr-a-guy-filming-a-video-4288
 coverr-a-guy-fixes-a-flexible-desk-stand-for-his-studio-microphone-5761
+coverr-a-guy-gently-stroking-his-girlfriend-s-hair-3750
+coverr-a-guy-gives-his-girlfriend-a-gift-7214
 coverr-a-guy-happily-drinking-coffee-in-a-caf-9822
 coverr-a-guy-is-lying-on-a-bed-on-the-ground-in-the-middle-of-a-field-7538
 coverr-a-guy-is-sitting-on-a-mattress-while-singing-in-a-dry-field-9864
@@ -182,6 +188,7 @@ coverr-a-guy-moves-a-piece-a-board-game-he-s-playing-with-his-partner-1185
 coverr-a-guy-moving-his-car-piece-while-playing-a-board-game-7071
 coverr-a-guy-opening-a-turntable-6640
 coverr-a-guy-playing-his-guitar-spontaneously-928
+coverr-a-guy-poses-for-photos-on-a-beach-6747
 coverr-a-guy-puts-the-paper-in-the-printer-machine-4871
 coverr-a-guy-puts-the-paper-into-the-shredder-4636
 coverr-a-guy-reading-lyrics-while-listening-to-music-1643
@@ -198,12 +205,14 @@ coverr-a-guy-standing-and-watching-a-football-match-2721
 coverr-a-guy-standing-near-a-pond-in-a-park-139
 coverr-a-guy-standing-on-the-sandy-beach-and-photographing-the-sea-2603
 coverr-a-guy-stirring-coffee-5914
+coverr-a-guy-surprises-his-loving-girlfriend-with-a-gift-7088
 coverr-a-guy-taking-photos-of-his-girlfriend-7444
 coverr-a-guy-taking-photos-of-his-girlfriend-in-a-park-on-his-smartphone-7498
 coverr-a-guy-talks-on-the-phone-in-a-telephone-booth-6686
 coverr-a-guy-unpacking-his-vinyl-record-7201
 coverr-a-guy-uses-a-smartphone-in-a-park-608
 coverr-a-guy-walking-to-a-half-pipe-skating-ramp-in-a-field-40
+coverr-a-guy-walking-while-holding-a-skateboard-1938
 coverr-a-guy-walks-with-a-smartphone-7884
 coverr-a-guy-watches-on-his-wristwatch-401
 coverr-a-guy-watching-a-football-game-on-his-tv-2021
@@ -222,7 +231,9 @@ coverr-a-lake-in-panama-city-4651
 coverr-a-lake-in-panama-city-4651coverr--07-022-22-girl-with-analog-camera_0001-6826
 coverr-a-lake-in-panama-city-4651coverr-a-beautiful-sunrise-in-lisbon-4121
 coverr-a-lighthouse-7309
+coverr-a-loving-boyfriend-surprise-his-beautiful-girlfriend-with-a-gift-4057
 coverr-a-loving-couple-clinking-wine-glasses-at-the-beach-7046
+coverr-a-loving-couple-having-a-peaceful-and-romantic-date-at-the-beach-6744
 coverr-a-loving-couple-having-an-intimate-moment-on-the-beach-2075
 coverr-a-loving-couple-holding-hands-1404
 coverr-a-loving-couple-holding-hands-and-walking-on-the-beach-2228
@@ -303,6 +314,7 @@ coverr-a-man-sitting-on-a-rock-in-a-field-4911
 coverr-a-man-sitting-on-a-rocky-beach-9816
 coverr-a-man-speaking-into-his-girlfriend-s-ear-romantically-4201
 coverr-a-man-standing-in-the-field-3419
+coverr-a-man-standing-in-the-sea-890
 coverr-a-man-standing-on-a-pier-5646
 coverr-a-man-stretches-his-shoulders-6042
 coverr-a-man-strolling-around-the-city-and-taking-in-the-scenery-3140
@@ -347,10 +359,12 @@ coverr-a-man-watches-a-video-about-ai-art-3100
 coverr-a-man-watches-a-video-about-parrot-ai-8928
 coverr-a-man-watches-a-video-about-runway-ai-1058
 coverr-a-man-watches-an-animated-video-1415
+coverr-a-man-waxing-a-surfboard-359
 coverr-a-man-with-a-cast-on-his-hand-standing-by-the-beach-653
 coverr-a-man-with-his-dog-steps-through-the-city-by-the-road-830
 coverr-a-man-with-his-hand-in-a-cast-standing-on-the-beach-7261
 coverr-a-man-working-on-a-laptop-at-the-office-9085
+coverr-a-man-zipping-his-suitcase-4197
 coverr-a-mature-man-using-a-laptop-1093
 coverr-a-mom-wins-a-game-of-uno-against-her-daughter-2219
 coverr-a-mosque-at-night-8927
@@ -452,6 +466,8 @@ coverr-a-woman-recording-a-voice-message-free-stock-video-coverr-6246
 coverr-a-woman-recording-a-voice-message-on-her-smartphone-514
 coverr-a-woman-relaxes-after-surf-session
 coverr-a-woman-s-hands-typing-on-a-keyboard-1187
+coverr-a-woman-serving-during-a-tennis-match-573
+coverr-a-woman-serving-in-a-tennis-match-6852
 coverr-a-woman-shakes-a-rug-on-the-balcony-5896
 coverr-a-woman-smiling-5560
 coverr-a-woman-smiling-while-using-her-smartphone-1705
@@ -527,6 +543,7 @@ coverr-aerial-panning-shot-of-a-beautiful-valley-1114
 coverr-ai-generated-cozy-cabin-interior-with-crackling-fireplace
 coverr-ai-generated-sunset-rays-above-the-clouds
 coverr-ai-voice-4386
+coverr-airport-check-in-6995
 coverr-alien-worlds-and-celestial-bodies
 coverr-allianz-cinema-2174
 coverr-amusement-park-3363
@@ -539,8 +556,10 @@ coverr-an-apartment-patio-1889
 coverr-an-artist-walks-on-a-stony-coast-with-his-sketchbook-3140
 coverr-an-artist-walks-on-an-embankment-with-his-sketchbook-5013
 coverr-an-attractive-couple-splashing-each-other-playfully-by-the-sea-4518
+coverr-an-attractive-couple-standing-side-by-side-on-the-beach-35
 coverr-an-attractive-girl-looking-at-the-camera-while-smiling-7176
 coverr-an-attractive-girl-smiling-at-the-camera-1013
+coverr-an-attractive-man-posing-with-his-back-against-a-concrete-wall-7067
 coverr-an-avocado-bowl-9599
 coverr-an-electric-scooter-parked-near-a-trash-bin-2033
 coverr-an-electric-scooter-standing-near-the-jeronimos-monastery-514
@@ -557,12 +576,14 @@ coverr-an-old-man-using-his-mobile-phone-at-home-3401
 coverr-an-old-man-working-out-4730
 coverr-an-upset-girl-lost-in-thought-2410
 coverr-ancient-roman-general-in-deep-thought
+coverr-angry-woman-1633
 coverr-app-store-on-an-iphone-9723
 coverr-apple-airpods-7454
 coverr-applying-festive-makeup-6554
 coverr-applying-liquid-foundation-334
 coverr-applying-makeup-in-front-of-mirror-5138
 coverr-arcade-game-2244
+coverr-army-recruitment-flag-2086
 coverr-artist-rinsing-a-paintbrush-7377
 coverr-artist-sketching-seaside-scenery
 coverr-asian-man-drinking-water-1136
@@ -579,6 +600,7 @@ coverr-assistant-helps-customer-put-a-jacket-on-7230
 coverr-at-the-top-of-a-mountain-61
 coverr-athlete-doing-a-tire-flip-exercise-6897
 coverr-attachments-for-power-tools-4928
+coverr-attractive-couple-cuddling-together-on-the-beach-8205
 coverr-audience-5684
 coverr-audio-recording-studio-1475
 coverr-autumn-forest-9642
@@ -636,6 +658,7 @@ coverr-blonde-girl-having-fun-on-the-beach-1185
 coverr-blonde-girl-posing-on-the-beach-during-sunset-2313
 coverr-blonde-girl-taking-photos-of-the-beach-at-sunset-3844
 coverr-blonde-guy-walking-on-a-terrace-3049
+coverr-blonde-skateboarder-using-his-smartphone-while-sitting-on-a-ramp-7264
 coverr-blonde-woman-brushing-her-hair-6799
 coverr-blue-liquid-2432
 coverr-blue-subway-departing-5836
@@ -792,6 +815,7 @@ coverr-cleaning-garbage-on-a-construction-site-6057
 coverr-clear-ocean-water-5446
 coverr-climbing-a-mountain-2570
 coverr-climbing-on-the-rocks-3243
+coverr-cloaked-figure-standing-next-to-a-futuristic-car
 coverr-clock-on-glass-building-9190
 coverr-clock-tower-in-buenos-aires-2608
 coverr-clock-tower-in-buenos-aires-5938
@@ -921,6 +945,7 @@ coverr-couple-meditating-3958
 coverr-couple-meeting-at-the-park-6712
 coverr-couple-meeting-at-the-promenade-3032
 coverr-couple-meeting-up-and-hugging-4850
+coverr-couple-on-the-pier-4527
 coverr-couple-play-fighting-on-the-beach-7156
 coverr-couple-playing-a-board-game-9228
 coverr-couple-playing-a-board-game-on-the-sofa-6164
@@ -935,6 +960,7 @@ coverr-couple-playing-video-game-6389
 coverr-couple-playing-video-games-together-7907
 coverr-couple-playing-with-a-frisbee-7448
 coverr-couple-plays-a-board-game-5447
+coverr-couple-posing-and-smiling-7401
 coverr-couple-posing-on-a-bench-8196
 coverr-couple-posing-with-serious-faces-61
 coverr-couple-relaxing-at-home-2014
@@ -949,15 +975,18 @@ coverr-couple-sitting-on-a-wooden-bench-3571
 coverr-couple-sitting-on-bench-9123
 coverr-couple-sitting-on-the-beach-3218
 coverr-couple-sitting-on-the-rocks-7620
+coverr-couple-smiling-and-running-6812
 coverr-couple-smiling-in-a-field-8323
 coverr-couple-spending-time-together-5136
 coverr-couple-standing-in-a-field-and-talking-3884
 coverr-couple-taking-selfies-whilst-walking-9170
 coverr-couple-talking-near-the-sea-7271
 coverr-couple-talking-outdoors-7540
+coverr-couple-walking-8927
 coverr-couple-walking-along-the-promenade-8690
 coverr-couple-walking-along-the-promenade-9162
 coverr-couple-walking-and-holding-hands-3786
+coverr-couple-walking-down-a-hill-8966
 coverr-couple-walking-on-a-field-2386
 coverr-couple-walking-on-a-pedestrian-crossing-3127
 coverr-couple-walking-through-the-meadow-761
@@ -976,6 +1005,7 @@ coverr-cracking-an-egg-1374
 coverr-craftsman-concentrating-2705
 coverr-craftsman-cutting-cardboard-4207
 coverr-creative-writing-session-outdoors
+coverr-creepy-man-near-abandoned-building-7016
 coverr-cross-on-a-mountain-1957
 coverr-crossing-bir-hakeim-bridge-in-paris-3718
 coverr-crowded-bridge-8424
@@ -1027,6 +1057,7 @@ coverr-drawing-patterns-on-a-pumpkin-5872
 coverr-drawing-trees-in-the-forest-7613
 coverr-dream-catchers-4539
 coverr-drinking-a-cup-of-coffee-and-typing-on-a-laptop-4356
+coverr-drinking-coffee-and-reading-a-book-in-paris-8106
 coverr-drinking-water-5132
 coverr-drinking-water-and-typing-7717
 coverr-drinking-water-in-a-cafe-2479
@@ -1075,8 +1106,10 @@ coverr-evening-runner-catching-her-breath
 coverr-evening-stroll-on-suburban-street
 coverr-examining-a-tree-6207
 coverr-examining-plants-4318
+coverr-exercising-near-sacre-coeur-9869
 coverr-expectant-mother-viewing-ultrasound-in-park
 coverr-exploring-an-indoor-market-7190
+coverr-exploring-vr-worlds-outdoors
 coverr-extension-cord-on-construction-site-3081
 coverr-factory-machine-5792
 coverr-falling-coins-6164
@@ -1188,11 +1221,13 @@ coverr-friends-looking-on-an-iphone-7587
 coverr-friends-meeting-at-the-beach-3106
 coverr-friends-meeting-on-a-field-2113
 coverr-friends-meeting-up-in-a-field-6927
+coverr-friends-on-a-canoe-expedition-2877
 coverr-friends-play-fighting-9150
 coverr-friends-playing-golf-8856
 coverr-friends-playing-in-the-snow-624
 coverr-friends-playing-p-tanque-in-paris-8804
 coverr-friends-playing-paddleball-5190
+coverr-friends-playing-tennis-4227
 coverr-friends-playing-tennis-6562
 coverr-friends-posing-against-car-1453
 coverr-friends-posing-at-sunset-101
@@ -1212,6 +1247,7 @@ coverr-friends-talking-in-the-field-2822
 coverr-friends-talking-on-a-mountain-top-7550
 coverr-friends-throwing-snow-at-each-other-4616
 coverr-friends-throwing-snowballs-at-each-other-1565
+coverr-friends-video-calling-in-the-city-4969
 coverr-friends-viewing-the-city-from-on-top-of-a-balcony-9320
 coverr-friends-walking-along-a-seashore-2985
 coverr-friends-walking-and-taking-pictures-108
@@ -1324,6 +1360,8 @@ coverr-grass-in-the-wind-9118
 coverr-grated-cheese-strips-fall-into-the-cheese-grater-4173
 coverr-green-apples-3362
 coverr-green-grass-in-the-forest-1378
+coverr-green-liquid-with-black-particles-7037
+coverr-green-soldier-action-figures-doing-yoga-7602
 coverr-green-trees-in-the-park-with-a-blue-sky-background-5575
 coverr-greenery-by-the-lake-8523
 coverr-groceries-in-shopping-basket
@@ -1367,7 +1405,10 @@ coverr-healthy-snack-time-outdoors
 coverr-heart-candies-on-a-table-4786
 coverr-hiding-from-the-rain-5467
 coverr-high-voltage-power-line-tower-against-blue-sky
+coverr-hiker-adjusting-backpack-in-woods
+coverr-hiker-capturing-memories-with-smartphone
 coverr-hiker-enjoys-the-view-6430
+coverr-hikers-lunch-break-in-nature
 coverr-hiking-up-a-mountain-5715
 coverr-hitting-an-orange-ball-with-a-white-one-6311
 coverr-hoboken-station-946
@@ -1410,7 +1451,9 @@ coverr-jogger-takes-a-break-by-the-sea
 coverr-jogging-across-pedestrian-crossing-8662
 coverr-jogging-down-the-road-3465
 coverr-jogging-near-moulin-rouge-8887
+coverr-jogging-near-sacre-coeur-8796
 coverr-joyful-fitness-selfie-in-the-park
+coverr-joyful-spin-in-the-park
 coverr-joyful-woman-spreading-arms-in-square
 coverr-july-calendar-5192
 coverr-jumping-in-the-swimming-pool-8235
@@ -1457,6 +1500,7 @@ coverr-lollipops-for-sale-2155
 coverr-london-at-night-5178
 coverr-london-eye-at-night-5673
 coverr-long-boarding-in-a-coral-reef-4086
+coverr-looking-around-an-abandoned-house-4654
 coverr-looking-at-a-camera-lens-4171
 coverr-looking-at-a-field-through-binoculars-6577
 coverr-looking-at-a-phone-1464
@@ -1521,6 +1565,7 @@ coverr-man-entering-a-souvenir-shop-3262
 coverr-man-floating-in-a-boat-6356
 coverr-man-gazes-at-hollywood-hills
 coverr-man-getting-on-an-exercise-bike-1208
+coverr-man-gives-a-woman-a-high-five-6508
 coverr-man-going-up-steps-with-a-skateboard-2734
 coverr-man-greets-his-girlfriend-100
 coverr-man-hammering-a-car-piece-4161
@@ -1534,12 +1579,16 @@ coverr-man-in-suit-climbing-down-a-ladder-9809
 coverr-man-in-the-kitchen-3038
 coverr-man-jogging-on-the-beach-1390
 coverr-man-laughing-on-a-mountain-top-3696
+coverr-man-lighting-a-candle-6436
+coverr-man-looking-at-the-forest-4388
+coverr-man-looking-at-the-grill-411
 coverr-man-looking-at-the-sea-6303
 coverr-man-looking-for-a-bottle-of-black-paint-1792
 coverr-man-looking-in-his-bag-2842
 coverr-man-looking-out-a-car-window-2988
 coverr-man-looks-at-a-public-transport-schedule-at-a-bus-stop-5299
 coverr-man-making-a-snowman-227
+coverr-man-meditating-near-sacre-coeur-2661
 coverr-man-on-a-jetski-near-a-cruise-ship-7710
 coverr-man-on-a-raised-platform-9361
 coverr-man-on-an-empty-island-5689
@@ -1572,7 +1621,9 @@ coverr-man-running-at-the-beach-1479
 coverr-man-running-on-the-deck-near-the-ocean-5846
 coverr-man-running-to-the-sea-1974
 coverr-man-scrolling-through-his-instagram-feed-4477
+coverr-man-serving-during-tennis-9531
 coverr-man-serving-in-a-tennis-match-5765
+coverr-man-setting-up-his-camera-6241
 coverr-man-singing-to-his-girlfriend-9482
 coverr-man-sitting-on-a-mountain-8730
 coverr-man-sitting-on-a-park-bench-in-paris-8440
@@ -1599,6 +1650,7 @@ coverr-man-taking-a-video-camera-out-of-a-bag-7338
 coverr-man-taking-photos-of-nature-699
 coverr-man-taking-photos-with-a-vintage-camera-2789
 coverr-man-taking-pictures-with-a-polaroid-camera-6508
+coverr-man-talking-and-smiling-6058
 coverr-man-texting-2464
 coverr-man-texting-in-an-abandoned-building-1498
 coverr-man-texts-on-smartphone-in-sunlight
@@ -1627,10 +1679,12 @@ coverr-man-walking-to-the-beach-8692
 coverr-man-walking-to-the-tennis-court-8622
 coverr-man-walking-up-a-hill-6737
 coverr-man-walking-with-a-surfboard-8316
+coverr-man-watching-the-barbecue-7957
 coverr-man-wearing-glasses-playing-the-piano-3439
 coverr-man-with-a-longboard-in-a-tropical-forest-2878
 coverr-man-with-a-pinata-head-2918
 coverr-man-with-backpack-walking-through-an-island-8913
+coverr-man-with-skeleton-makeup-6541
 coverr-man-working-with-mannequins-5469
 coverr-manhattan-skyline-7479
 coverr-mannequin-in-a-workshop-4389
@@ -1651,6 +1705,7 @@ coverr-meditation-in-the-park-84
 coverr-meditative-urban-yoga-pose
 coverr-medium-shot-of-a-tourist-walking-to-a-hotel-room-127
 coverr-men-hanging-out-on-mountain-top-6948
+coverr-men-holding-hands-7901
 coverr-men-laughing-and-talking-7129
 coverr-men-playing-beach-soccer-7273
 coverr-men-skateboarding-1766
@@ -1691,6 +1746,7 @@ coverr-mother-and-daughter-playing-uno-1576
 coverr-motivated-runner-working-out-in-park
 coverr-motorcyclists-coming-around-a-curve-in-the-road-6998
 coverr-motorcyclists-riding-together-on-a-downhill-road-2896
+coverr-moulin-rouge-in-paris-880
 coverr-mountain-tops-734
 coverr-mountain-valley-landscape-9973
 coverr-mountains-above-the-clouds-4352
@@ -1706,6 +1762,7 @@ coverr-mysterious-cloaked-figure-approaching-ancient-ruins
 coverr-mysterious-doorway-at-night
 coverr-mysterious-figure-in-neon-noir-cityscape
 coverr-mystery-in-the-shadows
+coverr-mystical-ice-queen-close-up
 coverr-mystical-ruins-explorer
 coverr-nap-timer-hourglass-5921
 coverr-nature-selfie-moment
@@ -1934,6 +1991,7 @@ coverr-preparing-for-online-yoga-classes-8054
 coverr-preparing-to-exercise-in-the-park
 coverr-pressing-on-piano-keys-5107
 coverr-pressing-the-power-button-on-a-coffee-machine-9597
+coverr-protesting-group-1049
 coverr-public-playground-7049
 coverr-pumpkin-pie-on-the-table-6298
 coverr-pupils-studying-outdoors-6413
@@ -2039,6 +2097,7 @@ coverr-ruins-near-fortress-4068
 coverr-running-along-the-sidewalk-235
 coverr-running-and-holding-hands-6981
 coverr-running-through-a-grass-field-8369
+coverr-running-with-a-pride-flag-4000
 coverr-running-with-a-pride-flag-4077
 coverr-sacre-coeur-building-2149
 coverr-salta-landscape-4456
@@ -2106,6 +2165,7 @@ coverr-sitting-on-bench-at-airport-4303
 coverr-sitting-on-pont-alexandre-iii-stairs-in-paris-6298
 coverr-sitting-on-seat-at-the-airport-3965
 coverr-sitting-on-the-mountain-top-1515
+coverr-skateboarder-2946
 coverr-skateboarder-practicing-on-a-mini-ramp-7525
 coverr-skateboarding-on-an-empty-road-8832
 coverr-skater-practicing-9077
@@ -2144,6 +2204,7 @@ coverr-someone-types-on-the-whiteboard-5162
 coverr-songwriting-and-playing-the-guitar-6963
 coverr-speed-boat-under-mindaugas-bridge-in-vilnius-5538
 coverr-spinning-dreidel-6468
+coverr-spinning-on-the-beach-2672
 coverr-sports-equipment-in-a-gym-7635
 coverr-spreading-cake-batter-5738
 coverr-squeezing-a-fresh-orange-4108
@@ -2152,6 +2213,7 @@ coverr-st-port-authority-station-8572
 coverr-stack-of-cash-on-wooden-table
 coverr-stacking-chairs-in-modern-office
 coverr-stairs-between-buildings-4787
+coverr-standing-in-a-bathroom-9748
 coverr-stapling-wood-8529
 coverr-statue-in-a-yard-6645
 coverr-statue-in-front-of-a-spanish-building-9576
@@ -2177,6 +2239,7 @@ coverr-store-assistant-puts-jacket-on-customer-4731
 coverr-store-assistant-wipes-glasses-3037
 coverr-store-assistant-wiping-surfaces-4476
 coverr-store-attendant-in-clothing-warehouse-463
+coverr-store-attendant-wipes-glasses-9961
 coverr-stove-1451
 coverr-strategic-board-game-5807
 coverr-street-candy-vendor-8591
@@ -2276,6 +2339,7 @@ coverr-taking-photos-with-a-polaroid-camera-87
 coverr-taking-pictures-of-a-plant-pot-5815
 coverr-taking-pictures-of-boots-8840
 coverr-taking-pictures-of-the-park-4299
+coverr-taking-pictures-on-a-boat-7292
 coverr-taking-selfies-at-night-7619
 coverr-taking-shoes-out-to-a-customer-8197
 coverr-taking-tennis-equipment-out-of-a-bag-649
@@ -2283,6 +2347,7 @@ coverr-taking-treats-out-of-a-white-box-5197
 coverr-taking-vitamins-230
 coverr-talking-in-the-garden-1416
 coverr-talking-on-a-bench-at-night-4840
+coverr-talking-on-the-phone-on-the-street-9454
 coverr-task-card-8143
 coverr-tattooed-hand-with-a-ring-and-a-tablet-2017
 coverr-tea-time-in-nature
@@ -2331,6 +2396,7 @@ coverr-three-dollars-1756
 coverr-three-friends-meeting-up-in-a-field-983
 coverr-three-friends-talking-together-3237
 coverr-three-friends-walking-5128
+coverr-thrift-shopping-359
 coverr-thujas-and-junipers-6715
 coverr-thumbs-up-2196
 coverr-timelapse-from-day-to-night-7560
@@ -2488,6 +2554,7 @@ coverr-view-of-an-autumn-garden-from-a-window-inside-an-apartment-4247
 coverr-view-of-clouds-from-an-airplane-6487
 coverr-view-of-paris-from-pont-alexandre-iii-bridge-667
 coverr-village-in-the-mountains-1559
+coverr-vr-experience-in-lush-forest
 coverr-waiting-at-a-crossroad-155
 coverr-waiting-at-the-airport-2036
 coverr-waiting-for-check-in-hotel-lobby-scene
@@ -2557,6 +2624,8 @@ coverr-west-broadway-street-680
 coverr-west-broadway-street-6804
 coverr-white-car-reversing-42
 coverr-white-grapes-2048
+coverr-white-salt-falls-against-a-black-background-9461
+coverr-wild-horses-6062
 coverr-wind-turbines-in-a-field-5831
 coverr-wind-turbines-in-the-field-7853
 coverr-window-and-steering-wheel-of-a-vintage-dodge-4521
@@ -2608,6 +2677,8 @@ coverr-woman-jogging-down-the-street-6540
 coverr-woman-jumping-on-a-hill-7746
 coverr-woman-laughing-at-jokes-9416
 coverr-woman-laughing-at-the-camera-208
+coverr-woman-laughing-at-the-camera-3183
+coverr-woman-laughing-on-a-balcony-5597
 coverr-woman-leaving-a-shoe-store-with-a-bag-2767
 coverr-woman-lifting-her-arms-while-standing-by-the-lake-1136
 coverr-woman-lifting-up-her-arms-4587
@@ -2698,6 +2769,9 @@ coverr-woman-sitting-at-her-desk-and-studying-at-home-3564
 coverr-woman-sitting-by-a-window-looking-down-9029
 coverr-woman-sitting-down-at-her-desk-in-her-home-office-6752
 coverr-woman-smiles-and-looks-around-6567
+coverr-woman-smiling-8836
+coverr-woman-smiling-and-texting-2455
+coverr-woman-smiling-in-the-park-5636
 coverr-woman-smiling-in-the-woods-3937
 coverr-woman-smiling-on-a-boat-6550
 coverr-woman-soaking-a-tea-bag-in-a-cup-5275
@@ -2764,6 +2838,8 @@ coverr-woman-walking-with-luggage-on-street
 coverr-woman-washing-her-hands-5185
 coverr-woman-watching-the-sunset-5104
 coverr-woman-waving-5810
+coverr-woman-waving-goodbye-9845
+coverr-woman-waving-to-her-friends-6990
 coverr-woman-wearing-a-medical-mask-2345
 coverr-woman-wearing-gold-hoop-earrings-6207
 coverr-woman-with-blue-nails-typing-on-a-laptop-805
@@ -2772,6 +2848,7 @@ coverr-woman-with-groceries-in-elevator
 coverr-woman-working-on-her-laptop-6618
 coverr-woman-working-out-on-steps-5908
 coverr-woman-writing-a-poem-32
+coverr-woman-writing-in-a-notebook-6985
 coverr-woman-writing-in-her-notebook-9318
 coverr-woman-writing-in-notebook-3282
 coverr-woman-writing-outdoors-1923
@@ -2793,6 +2870,7 @@ coverr-working-in-an-office-5254
 coverr-working-in-the-office-7108
 coverr-working-on-a-roof-4483
 coverr-working-on-laptop-at-a-cafe-4983
+coverr-working-out-with-a-sacre-coeur-view-6068
 coverr-working-remotely-8056
 coverr-worried-woman-talking-on-phone-in-city
 coverr-writing-a-message-on-a-mother-s-day-poster-109
@@ -2830,6 +2908,7 @@ coverr-young-professional-on-the-move
 coverr-young-swans-swim-with-their-mother-2053
 coverr-young-traveler-with-a-suitcase-crossing-the-street-at-the-crosswalk
 coverr-young-woman-checking-smartphone-outdoors
+coverr-young-woman-showing-off-the-marina-over-video-call
 coverr-young-woman-texting-by-the-marina
 coverr-zipping-up-a-black-jacket-6283
 durs.txt
