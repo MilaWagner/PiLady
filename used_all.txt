@@ -1571,7 +1571,6 @@ coverr-man-asks-chtgpt-a-question-about-wormholes-7452
 coverr-man-biking-in-the-gym-2972
 coverr-man-buying-a-jacket-7159
 coverr-man-checking-gopro-footage-872
-coverr-man-climbing-a-ladder-8736
 coverr-man-climbing-a-ladder-on-a-pole-5254
 coverr-man-climbing-down-a-ladder-1159
 coverr-man-climbing-up-a-ladder-4188
@@ -1605,7 +1604,6 @@ coverr-man-in-front-of-the-clouds-725
 coverr-man-in-suit-climbing-down-a-ladder-9809
 coverr-man-in-the-kitchen-3038
 coverr-man-jogging-on-the-beach-1390
-coverr-man-jogging-up-the-stairs-8556
 coverr-man-laughing-on-a-mountain-top-3696
 coverr-man-lighting-a-candle-6436
 coverr-man-looking-at-a-huge-tree-7049
@@ -1652,7 +1650,6 @@ coverr-man-running-and-holding-a-kite-9253
 coverr-man-running-at-the-beach-1479
 coverr-man-running-on-the-deck-near-the-ocean-5846
 coverr-man-running-to-the-sea-1974
-coverr-man-running-up-the-stairs-7918
 coverr-man-scrolling-through-his-instagram-feed-4477
 coverr-man-serving-during-tennis-9531
 coverr-man-serving-in-a-tennis-match-5765
@@ -2666,7 +2663,6 @@ coverr-walking-to-the-mountain-top-8360
 coverr-walking-to-work-office-corridor-stroll
 coverr-walking-under-an-arch-5488
 coverr-walking-up-an-empty-road-7747
-coverr-walking-up-the-stairs-4094
 coverr-walking-with-a-suitcase-3083
 coverr-walking-with-suitcase-4717
 coverr-walking-with-the-dog-through-the-city-9134
