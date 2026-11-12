@@ -117,6 +117,7 @@ coverr-a-female-s-hands-typing-on-laptop-7520
 coverr-a-female-student-completing-a-marketing-assignment-985
 coverr-a-female-video-editor-is-checking-her-social-media-5063
 coverr-a-field-above-the-clouds-2256
+coverr-a-finger-moving-over-piano-keys-5583
 coverr-a-finger-scrolling-through-a-smartphone-8992
 coverr-a-fisherman-getting-ready-to-cast-his-hook-into-the-sea-9094
 coverr-a-fisherman-putting-sunglasses-on-4080
@@ -252,6 +253,7 @@ coverr-a-joyful-girl-talking-on-her-smartphone-at-a-street-caf-5895
 coverr-a-lake-in-panama-city-4651
 coverr-a-lake-in-panama-city-4651coverr--07-022-22-girl-with-analog-camera_0001-6826
 coverr-a-lake-in-panama-city-4651coverr-a-beautiful-sunrise-in-lisbon-4121
+coverr-a-lake-near-a-forest-6426
 coverr-a-lake-near-mountains-9570
 coverr-a-lighthouse-7309
 coverr-a-loving-boyfriend-surprise-his-beautiful-girlfriend-with-a-gift-4057
@@ -324,6 +326,7 @@ coverr-a-man-puts-a-coffee-cup-on-the-coaster-3717
 coverr-a-man-puts-a-leash-on-his-dog-4677
 coverr-a-man-puts-on-wetsuit
 coverr-a-man-putting-a-battery-into-a-vr-headset-2706
+coverr-a-man-putting-a-smartphone-into-a-vr-headset-1716
 coverr-a-man-putting-a-vr-headset-on-9332
 coverr-a-man-putting-on-vr-glasses-1577
 coverr-a-man-reading-a-book-at-home-late-at-night-5580
@@ -479,6 +482,7 @@ coverr-a-video-cutting-process-is-shown-on-screen-8801
 coverr-a-video-montage-process-is-shown-on-screen-2107
 coverr-a-view-of-a-river-8460
 coverr-a-view-of-the-coast-1381
+coverr-a-view-of-the-lake-2273
 coverr-a-vr-headset-on-a-bed-4760
 coverr-a-walk-in-the-city-5518
 coverr-a-walk-in-the-park-2340
@@ -590,6 +594,7 @@ coverr-adjusting-the-timer-on-an-electric-mixer-5891
 coverr-admiring-the-view-near-sacre-coeur-630
 coverr-aerial-panning-shot-of-a-beautiful-valley-1114
 coverr-aerial-shot-of-las-vegas-6392
+coverr-aerial-view-of-a-snowy-forest-stream-in-tierra-del-fuego-argentina
 coverr-aerial-view-of-mexico-5144
 coverr-ai-generated-aerial-view-of-a-dubai-like-modern-cityscape
 coverr-ai-generated-close-up-of-a-pale-horses-eye
@@ -638,6 +643,7 @@ coverr-an-old-man-sitting-outside-while-drawing-in-his-notebook-933
 coverr-an-old-man-talking-on-his-iphone-8926
 coverr-an-old-man-using-his-mobile-phone-at-home-3401
 coverr-an-old-man-working-out-4730
+coverr-an-orange-flower-3443
 coverr-an-uphill-alleyway-4322
 coverr-an-upset-girl-lost-in-thought-2410
 coverr-ancient-roman-general-in-deep-thought
@@ -1122,6 +1128,8 @@ coverr-coworkers-arrive-at-the-office-9520
 coverr-coworkers-make-notes-in-a-notebook-6261
 coverr-coworkers-start-to-work-at-the-office-1761
 coverr-coworkers-talk-on-a-video-conference-9226
+coverr-cows-in-a-field-7235
+coverr-cows-on-a-field-in-new-zealand-8669
 coverr-cozy-beach-outing-on-a-cloudy-day
 coverr-cozy-outdoor-reading-time
 coverr-cracking-an-egg-1374
@@ -1159,6 +1167,7 @@ coverr-dancing-in-an-empty-house-8141
 coverr-dancing-in-empty-building-3289
 coverr-dancing-in-the-sunlight-173
 coverr-dancing-puppets-1939
+coverr-dandelions-7795
 coverr-daraga-church-7220
 coverr-dark-forest-1109
 coverr-date-in-a-promenade-3938
@@ -1167,6 +1176,7 @@ coverr-decorated-wall-5670
 coverr-decorating-a-cake-9004
 coverr-decorating-a-snowman-5925
 coverr-decorating-cupcakes-with-frosting-9251
+coverr-deer-on-a-field-198
 coverr-delta-air-lines-7276
 coverr-desert-in-california-329
 coverr-desert-in-california-3673
@@ -1247,6 +1257,7 @@ coverr-empty-terrace-caf-3130
 coverr-engrossed-in-tech-on-the-go
 coverr-enjoying-nature-on-a-rock-1188
 coverr-enjoying-the-view-of-the-mountains-900
+coverr-entering-a-greek-cemetery-7191
 coverr-entering-and-leaving-the-station-7936
 coverr-entry-barrier-in-a-subway-station-2104
 coverr-erasing-words-on-a-whiteboard-7435
@@ -1318,6 +1329,7 @@ coverr-flock-of-birds-in-the-sky-5742
 coverr-flower-alley-in-a-botanical-garden-1701
 coverr-flower-shop-1612
 coverr-flowers-and-bees-4545
+coverr-flowers-and-butterflies-on-a-field-2927
 coverr-flowers-being-watered-9602
 coverr-flowing-water-753
 coverr-flying-birds-animation-6922
@@ -1335,6 +1347,7 @@ coverr-focused-working-space-1555
 coverr-focused-writing-session-outdoors
 coverr-foggy-forest-8688
 coverr-foggy-mountains-in-fanal-madeira-island-5183
+coverr-foggy-mountains-in-sao-vicente-portugal-4171
 coverr-football-fans-sitting-on-and-standing-near-a-couch-1918
 coverr-footpath-in-the-rainforest-9968
 coverr-ford-in-a-parking-lot-1304
@@ -1558,6 +1571,8 @@ coverr-grandfather-and-granddaughter-using-laptop-7495
 coverr-graphic-designer-at-work-in-his-home-office-2232
 coverr-grass-in-the-wind-9118
 coverr-grated-cheese-strips-fall-into-the-cheese-grater-4173
+coverr-gravestone-covered-in-leaves-465
+coverr-greek-cemetery-3116
 coverr-green-apples-3362
 coverr-green-cabbage-field-near-the-forest-2770
 coverr-green-grass-in-the-forest-1378
@@ -1653,6 +1668,7 @@ coverr-house-ruins-2268
 coverr-houses-at-the-top-of-a-mountain-4507
 coverr-houses-on-a-mountain-8279
 coverr-houston-texas-at-night-4130
+coverr-huge-spider-web-1399
 coverr-hugging-couple-leaning-on-car-876
 coverr-hydration-break-during-outdoor-training
 coverr-hydration-break-during-workout
@@ -1721,6 +1737,7 @@ coverr-las-vegas-strip-1137
 coverr-latino-americana-countdown-6291
 coverr-leaf-8718
 coverr-leaning-on-a-log-5045
+coverr-leaves-blowing-in-the-wind-6782
 coverr-leaving-cortlandt-street-station-1985
 coverr-leg-workout-on-steps-9219
 coverr-lifting-an-exercise-bike-4203
@@ -2026,6 +2043,9 @@ coverr-mini-waterfall-in-estoril-portugal-261
 coverr-mirrored-art-piece-in-the-city-6169
 coverr-misty-mountain-road-journey
 coverr-misty-mountains-819
+coverr-misty-mountains-in-fanal-madeira-island-718
+coverr-misty-mountains-in-salta-argentina-8076
+coverr-misty-mountains-in-sao-vicente-portugal-3617
 coverr-misty-rocks-in-salta-argentina-9955
 coverr-mixing-a-fruit-salad-2075
 coverr-mixing-dough-in-a-bowl-8058
@@ -2068,6 +2088,8 @@ coverr-mountains-covered-with-fog-1363
 coverr-mountains-covered-with-fog-in-fanal-madeira-island-6170
 coverr-mountains-in-lake-tekapo-new-zealand-5006
 coverr-mountains-in-nevada-3643
+coverr-mountains-in-sao-vicente-madeira-island-6890
+coverr-mountains-in-sao-vicente-portugal-8437
 coverr-mountains-in-the-mist-in-salta-argentina-4770
 coverr-mountains-surrounding-the-river-2439
 coverr-mouse-with-colored-led-backlight-7124
@@ -2099,6 +2121,7 @@ coverr-new-york-city-traffic-9472
 coverr-new-york-city-vessel-1295
 coverr-new-york-fridge-magnet-7316
 coverr-new-york-stock-exchange-5368
+coverr-new-zealand-coast-6388
 coverr-night-city-from-a-moving-car-6550
 coverr-nights-in-the-city-9359
 coverr-nose-of-a-canoe-sailing-on-the-river-2740
@@ -2190,6 +2213,7 @@ coverr-painting-cardboard-yellow-2251
 coverr-painting-pieces-of-cardboard-3144
 coverr-painting-with-black-paint-445
 coverr-palm-tree-at-sunset-5006
+coverr-palm-tree-in-the-wind-9005
 coverr-palm-tree-landscape-3016
 coverr-palm-trees-3096
 coverr-palm-trees-at-night-821
@@ -2344,6 +2368,8 @@ coverr-pouring-water-into-a-glass-749
 coverr-pov-car-driving-through-a-forest-1318
 coverr-pov-crowd-at-a-concert-4932
 coverr-pov-walking-on-grass-3484
+coverr-praia-do-pinh-o-coastline-6947
+coverr-praia-do-pinh-o-shore-6756
 coverr-pregnant-couple-9170
 coverr-preparation-for-online-yoga-classes-481
 coverr-preparation-for-the-wheel-yoga-pose-6280
@@ -2528,6 +2554,8 @@ coverr-sculpture-on-gedinimo-avenue-2902
 coverr-sculpture-on-pont-alexandre-iii-bridge-8617
 coverr-sea-under-a-stone-bridge-385
 coverr-seagulls-flying-around-5656
+coverr-seagulls-on-the-beach-3302
+coverr-seagulls-on-the-coast-9966
 coverr-seashore-serenity-with-distant-ships
 coverr-seaside-meditation-for-serenity
 coverr-seaside-morning-run
@@ -2554,6 +2582,7 @@ coverr-set-of-bits-in-a-toolbox-6074
 coverr-setting-up-home-wi-fi-network
 coverr-settlement-in-the-mountains-1676
 coverr-shack-above-the-river-379
+coverr-shadow-of-a-hand-through-a-banana-leaf-8700
 coverr-shadows-of-lovers-hands-uniting-884
 coverr-shadows-of-people-3186
 coverr-shadows-on-a-floor-1092
@@ -2755,6 +2784,7 @@ coverr-sun-shining-on-the-leaves-4502
 coverr-sun-shining-on-the-seawater-7420
 coverr-sun-shining-over-the-ocean-2178
 coverr-sun-shining-through-a-palm-tree-1441
+coverr-sunflowers-in-the-wind-2541
 coverr-sunlight-shining-through-green-leaves-3256
 coverr-sunny-courtyard-reflections
 coverr-sunny-day-at-beverly-hills-sign
@@ -2783,7 +2813,9 @@ coverr-surfer-near-a-desert-island-8912
 coverr-surfers-chatting-by-the-ocean
 coverr-surfers-paddling-on-a-cloudy-day-8564
 coverr-surfing-as-the-sunsets-7531
+coverr-swan-stuck-on-a-branch-6239
 coverr-swans-at-salote-lake-in-vilnius-505
+coverr-swans-in-a-lake-at-sunset-3561
 coverr-sweeping-sawdust-3447
 coverr-swinging-light-bulbs-6788
 coverr-swinging-microphone-7144
@@ -2856,6 +2888,7 @@ coverr-the-city-roads-at-night-4076
 coverr-the-front-of-a-cafe-3562
 coverr-the-incoming-waves-of-the-ocean-gently-splash-onto-the-shore-3079
 coverr-the-jeronimos-monastery-7444
+coverr-the-misty-mountains-7980
 coverr-the-moon-during-the-day-5565
 coverr-the-mountains-in-the-fog-9051
 coverr-the-ocean-7381
@@ -2994,6 +3027,7 @@ coverr-two-men-talking-on-a-bed-6275
 coverr-two-people-jogging-in-paris-2273
 coverr-two-people-playing-tennis-8028
 coverr-two-people-walking-downstairs-quickly-7342
+coverr-two-sheep-at-the-farm-6686
 coverr-two-tennis-balls-5314
 coverr-tying-shoelaces-1088
 coverr-typing-5131
@@ -3087,6 +3121,7 @@ coverr-view-of-paris-from-pont-alexandre-iii-bridge-667
 coverr-view-of-the-harbor-8599
 coverr-view-of-the-highway-in-madeira-9470
 coverr-village-in-the-mountains-1559
+coverr-virtual-reality-in-nature
 coverr-volcano-and-palm-trees-3818
 coverr-volcano-beyond-the-trees-3903
 coverr-volcano-in-the-distance-2579
@@ -3192,6 +3227,7 @@ coverr-wheel-yoga-pose-by-the-sea
 coverr-white-car-reversing-42
 coverr-white-cat-2649
 coverr-white-grapes-2048
+coverr-white-greek-cemetery-8290
 coverr-white-orchid-7913
 coverr-white-salt-falls-against-a-black-background-9461
 coverr-white-window-with-tree-reflection-998
@@ -3522,6 +3558,3 @@ coverr-young-woman-texting-by-the-marina
 coverr-zesting-a-lemon-6713
 coverr-zipping-up-a-black-jacket-6283
 durs.txt
-coverr-a-man-putting-a-smartphone-into-a-vr-headset-1716
-coverr-shadow-of-a-hand-through-a-banana-leaf-8700
-coverr-virtual-reality-in-nature
