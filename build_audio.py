@@ -1,84 +1,95 @@
-import numpy as np,subprocess,json,os,re
+import numpy as np,subprocess,json,os,sys
+from scipy.ndimage import uniform_filter1d
+import soundfile as sf
 import script
 SR=44100
+TEMPO=float(sys.argv[1]) if len(sys.argv)>1 else 0.90
+GAP=0.8; BLOCK_GAP=2.4; STAR=4.2
 def load(path):
-    r=subprocess.run(['ffmpeg','-v','error','-i',path,'-af','aresample=44100','-ac','1','-f','f32le','-'],capture_output=True,check=True)
+    r=subprocess.run(['ffmpeg','-v','error','-i',path,'-af',f'atempo={TEMPO},aresample={SR}','-ac','1','-f','f32le','-'],capture_output=True,check=True)
     return np.frombuffer(r.stdout,dtype=np.float32)
-voice=[np.zeros(int(0.15*SR),dtype=np.float32)]
-t=0.15; tl={'blocks':[],'sents':[]}
-cur=t
+parts=[np.zeros(int(0.3*SR),dtype=np.float32)]
+cur=0.3; tl={'blocks':[],'sents':[]}
 for bi,b in enumerate(script.BLOCKS):
-    bstart=cur
+    bstart=cur; n=len(b['text'])
     for si,txt in enumerate(b['text']):
-        a=load(f'tts/{bi:02d}_{si:02d}.mp3')
-        d=len(a)/SR
-        voice.append(a); tl['sents'].append(dict(b=bi,s=si,start=cur,end=cur+d,text=txt))
-        cur+=d
-        gap=0.28 if si<len(b['text'])-1 else 0.9
-        voice.append(np.zeros(int(gap*SR),dtype=np.float32)); cur+=gap
+        if txt.strip()=='***':
+            parts.append(np.zeros(int(STAR*SR),dtype=np.float32)); cur+=STAR; continue
+        a=load(f'tts/{bi:02d}_{si:02d}.wav'); d=len(a)/SR
+        parts.append(a); tl['sents'].append(dict(b=bi,s=si,start=cur,end=cur+d,text=txt)); cur+=d
+        gap=GAP if si<n-1 else BLOCK_GAP
+        parts.append(np.zeros(int(gap*SR),dtype=np.float32)); cur+=gap
     tl['blocks'].append(dict(start=bstart,end=cur))
-voice=np.concatenate(voice)
-total=len(voice)/SR+3.5
-voice=np.concatenate([voice,np.zeros(int(3.5*SR),dtype=np.float32)])
-# normalize voice
-voice=voice/ (np.max(np.abs(voice))+1e-9)*0.85
+voice=np.concatenate(parts); del parts
+tail=3.5; voice=np.concatenate([voice,np.zeros(int(tail*SR),dtype=np.float32)])
+total=len(voice)/SR
+voice=voice/(np.max(np.abs(voice))+1e-9)*0.85
 tl['total']=total
-# music: B-flat aeolian drone pad, unique key for this video
-rng=np.random.default_rng(181)
-n=len(voice); tt=np.arange(n)/SR
+# voice envelope at 100 Hz for logo pulse
+hop=SR//100; nn=len(voice)//hop
+env100=np.sqrt((voice[:nn*hop].reshape(nn,hop)**2).mean(1)).astype(np.float32)
+np.save('env100.npy',env100)
+# duck envelope
+k=int(0.25*SR); denv=uniform_filter1d(np.abs(voice),k,mode='constant')
+duck=(1-0.45*np.clip(denv/0.12,0,1)).astype(np.float32); del denv
+# music (chunked)
 def note(m): return 440*2**((m-69)/12)
-chords=[[55,62,67,71],[52,59,64,68],[50,57,62,66],[53,60,65,69]]
-L=np.zeros(n);R=np.zeros(n)
+chords=[[57,64,69,73],[54,61,66,70],[52,59,64,68],[55,62,67,71]]
 seg=22.0
-for i in range(int(total/seg)+2):
-    ch=chords[i%len(chords)]
-    s0=int(i*seg*SR); s1=min(n,int((i+1)*seg*SR+4*SR))
-    if s0>=n: break
-    x=tt[s0:s1]-i*seg
-    env=np.clip(x/6,0,1)*np.clip((seg+4-x)/6,0,1)
-    for k,m in enumerate(ch):
-        f=note(m)
-        for det in (-0.6,0.0,0.7):
-            ph=rng.uniform(0,6.28)
-            w=np.sin(2*np.pi*(f+det)*x+ph)+0.3*np.sin(2*np.pi*2*(f+det)*x+ph)
-            lfo=0.75+0.25*np.sin(2*np.pi*(0.05+0.02*k)*x+ph)
-            sig=w*env*lfo
-            pan=0.5+0.3*np.sin(ph)
-            L[s0:s1]+=sig*(1-pan);R[s0:s1]+=sig*pan
-# soft high shimmer
-for j in range(14):
-    f=note(82+ (j*3)%12); st=rng.uniform(5,total-8); x=tt-st
-    env=np.exp(-np.clip(x,0,None)/2.5)*(x>0)
-    s=np.sin(2*np.pi*f*x)*env*0.05
-    L+=s*0.7;R+=s*0.3
-fade=np.clip(tt/4,0,1)*np.clip((total-tt)/4,0,1)
-L*=fade;R*=fade
-mus=np.stack([L,R],1)
-rms=np.sqrt(np.mean(mus**2)); mus=mus/rms
-# level: music about -44 dB rms relative to full scale, voice rms ~ -20
-mus*=10**(-52/20)
-# duck under voice
-env=np.abs(voice); k=int(0.25*SR)
-env=np.convolve(env,np.ones(k)/k,mode='same'); duck=1-0.45*np.clip(env/0.12,0,1)
-mus*=duck[:,None]
-vst=np.stack([voice,voice],1)
-mix=vst*10**(-3/20)+mus
-peak=np.max(np.abs(mix)); print('peak',peak,'music rms dB',20*np.log10(np.sqrt(np.mean(mus**2))), 'voice rms dB',20*np.log10(np.sqrt(np.mean(voice**2))))
-mix=mix/max(peak,1)*0.97
-pcm=(mix*32767).astype('<i2')
-open('mix.raw','wb').write(pcm.tobytes())
-subprocess.run(['ffmpeg','-y','-v','error','-f','s16le','-ar','44100','-ac','2','-i','mix.raw','-c:a','aac','-b:a','160k','audio.m4a'],check=True)
-np.save('voice.npy',voice)
+shim=[]; rs=np.random.default_rng(77)
+for j in range(int(total/28)):
+    shim.append((rs.uniform(5,total-8),note(82+(j*3)%12)))
+def music_chunk(c0,c1):
+    n=c1-c0; tt=(np.arange(c0,c1)/SR)
+    L=np.zeros(n,np.float32); R=np.zeros(n,np.float32)
+    t0,t1=c0/SR,c1/SR
+    for i in range(max(0,int((t0-4)//seg)),int(t1//seg)+1):
+        s_t=i*seg
+        if s_t>=t1 or s_t+seg+4<=t0: continue
+        rng=np.random.default_rng(1000+i); ch=chords[i%4]
+        x=tt-s_t
+        env=np.clip(x/6,0,1)*np.clip((seg+4-x)/6,0,1)
+        env=np.where((x>=0)&(x<=seg+4),env,0)
+        for kk,m in enumerate(ch):
+            f=note(m)
+            for det in (-0.6,0.0,0.7):
+                ph=rng.uniform(0,6.28)
+                w=np.sin(2*np.pi*(f+det)*x+ph)+0.3*np.sin(2*np.pi*2*(f+det)*x+ph)
+                lfo=0.75+0.25*np.sin(2*np.pi*(0.05+0.02*kk)*x+ph)
+                sig=(w*env*lfo).astype(np.float32); pan=0.5+0.3*np.sin(ph)
+                L+=sig*(1-pan); R+=sig*pan
+    for st,f in shim:
+        if st>t1 or st+12<t0: continue
+        x=tt-st; e=np.exp(-np.clip(x,0,None)/2.5)*(x>0)
+        s=(np.sin(2*np.pi*f*x)*e*0.05).astype(np.float32); L+=s*0.7; R+=s*0.3
+    fade=(np.clip(tt/4,0,1)*np.clip((total-tt)/4,0,1)).astype(np.float32)
+    return L*fade,R*fade
+CH=SR*30
+# calibrate rms on 90s sample
+cl,cr=music_chunk(SR*30,SR*120); rms=float(np.sqrt(np.mean(np.concatenate([cl,cr])**2)))
+gain=10**(-52/20)/rms
+N=len(voice); peak=0.0
+out=open('mix.f32','wb')
+for c0 in range(0,N,CH):
+    c1=min(N,c0+CH); L,R=music_chunk(c0,c1)
+    d=duck[c0:c1]; v=voice[c0:c1]
+    mixL=v*10**(-3/20)+L*gain*d; mixR=v*10**(-3/20)+R*gain*d
+    peak=max(peak,float(np.max(np.abs(mixL))),float(np.max(np.abs(mixR))))
+    out.write(np.stack([mixL,mixR],1).astype('<f4').tobytes())
+out.close()
+subprocess.run(['ffmpeg','-y','-v','error','-f','f32le','-ar','44100','-ac','2','-i','mix.f32','-af',f'volume={0.97/peak:.4f}','-c:a','aac','-b:a','160k','audio.m4a'],check=True)
+os.remove('mix.f32')
 # subtitle chunks
 chunks=[]
 for s in tl['sents']:
     words=s['text'].split(); n_w=len(words)
-    parts=max(1,round(n_w/13)); size=int(np.ceil(n_w/parts))
+    pc=max(1,round(n_w/13)); size=int(np.ceil(n_w/pc))
     pieces=[' '.join(words[i:i+size]) for i in range(0,n_w,size)]
     tot=sum(len(p) for p in pieces); a=s['start']
     for p in pieces:
-        d=(s['end']-s['start'])*len(p)/tot
-        chunks.append(dict(start=a,end=a+d,text=p)); a+=d
+        dd=(s['end']-s['start'])*len(p)/tot
+        chunks.append(dict(start=a,end=a+dd,text=p)); a+=dd
 tl['chunks']=chunks
 json.dump(tl,open('timeline.json','w'),ensure_ascii=False,indent=1)
-print('total',total, 'blocks',[(round(b['start']),round(b['end'])) for b in tl['blocks']])
+print('tempo',TEMPO,'total min',round(total/60,2),'peak',peak,'music gain',gain)
+print('blocks',[round((b['end']-b['start'])) for b in tl['blocks']])
